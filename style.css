@@ -45,6 +45,7 @@ padding: 24px;
     width: 112px;
     margin:auto;
     display: block;
+    border-radius: 50%;
 }
 
 body *{
