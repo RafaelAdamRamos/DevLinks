@@ -1,35 +1,35 @@
 # DevLinks
 
-> 🔧 **Projeto**  
-> DevLinks é um projeto front-end que organiza links úteis para desenvolvedores. O objetivo é oferecer uma página simples onde o usuário possa acessar recursos relevantes organizados por categoria.
+> 🔧 **Project**  
+> DevLinks is a front-end project that organizes useful links for developers. The goal is to provide a simple page where users can access relevant resources organized by category.
 
-## Descrição
+## Description
 
-DevLinks é uma aplicação web estática construída com **HTML, CSS e JavaScript**.  
-O projeto foi criado como parte de um desafio/atividade da Rocketseat, com foco na prática de desenvolvimento web, organização de arquivos, layout e manipulação do DOM.
+DevLinks is a static web application built with **HTML, CSS, and JavaScript**.  
+The project was created as part of a Rocketseat challenge/activity, focusing on practicing web development, file organization, layout, and DOM manipulation.
 
-Ele funciona como uma **lista de links úteis**, organizada de forma visual, permitindo que o visitante acesse rapidamente recursos relevantes para desenvolvedores.
+It works as a **curated list of useful links**, visually organized to allow visitors to quickly access relevant resources for developers.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML** — estrutura da página
-- **CSS** — estilização e layout visual
-- **JavaScript** — interação e comportamento dinâmico básico
+- **HTML** — page structure  
+- **CSS** — visual styling and layout  
+- **JavaScript** — basic interaction and dynamic behavior  
 
-## Funcionalidades
+## Features
 
-Atualmente, o projeto inclui:
-- Exibição de uma página com links úteis
-- Estilo visual responsivo básico
-- Código organizado em arquivos separados
+Currently, the project includes:
+- Display of a page with useful links  
+- Basic responsive visual styling  
+- Well-organized code split into separate files  
 
-*(O projeto não possui backend nem integração com servidor.)*
+*(The project has no backend or server integration.)*
 
-## Link para visualização
+## Live Demo
 
 https://rafaeladamramos.github.io/DevLinks/
 
-## Observações
+## Notes
 
-- Projeto criado para fins de estudo e prática de front-end
-- A estrutura pode ser adaptada para uso pessoal ou como base para outros projetos
+- Project created for front-end study and practice purposes  
+- The structure can be adapted for personal use or as a base for other projects  
